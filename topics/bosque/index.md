@@ -3,6 +3,7 @@ aliases: bosquelang, bosque-lang
 created_by: Microsoft
 display_name: Bosque
 github_url: https://github.com/Microsoft/BosqueLanguage/
+logo: Bosque_Logo_96x96.png
 released: April 7, 2019
 short_description: Bosque is programming language with a regularized design.
 topic: bosque
